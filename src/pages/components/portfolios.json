@@ -1,0 +1,294 @@
+{
+  "webApplication": [
+    {
+      "src" : "images/portfolios/web-application/ican.supply.png",
+      "desc": "ican.supply is a leading B2B UK based e-commerce platform for wholesalers, distributors, and manufacturers.",
+      "url": "https://ican.supply",
+      "domain": "ican.supply",
+      "name": "B2B UK based e-commerce platform"
+    },
+    {
+      "src" : "images/portfolios/web-application/flowyze.com.png",
+      "desc": "Flowyze is an virtual assistant for businesses and give support in marketing , in sales , in customer service , in the secretariat , in website support or in the administration of web shops. And with that they offer you active support in numerous areas that you no longer want to do without.",
+      "url": "https://flowyze.com",
+      "domain": "flowyze.com",
+      "name": "virtual assistant service"
+    },
+    {
+      "src" : "images/portfolios/web-application/mygrade.me.png",
+      "desc": "My Grade is an online test site for students of King Saud bin Abdulaziz University for Health Sciences (KSAU-HS) and where they provide different types of test and quizs of Health Sciences.",
+      "url": "https://www.mygrade.me",
+      "domain": "mygrade.me",
+      "name": "( KSAU-HS ) - Online Test"
+    },
+    {
+      "src" : "images/portfolios/web-application/arcinsurance.ca.png",
+      "desc": "ARC Insurance Brokers is a small but diverse team of insurance professionals in Edmonton, They strive to make getting insurance a better experience for you, and offer modern, ethical insurance products to protect the life you’re building and the people you love.",
+      "url": "https://www.arcinsurance.ca",
+      "domain": "arcinsurance.ca",
+      "name": "ARC Insurance Brokers"
+    },
+    {
+      "src" : "images/portfolios/web-application/techfundingnews.com.png",
+      "desc": "TechFundingNews.com (TFN) is all about interesting technology products from across the world which are getting funded to drive the change and define the future. TFN is a reliable and trusted source of top startup news, features, and exclusive information on the tech startup world.",
+      "url": "https://techfundingnews.com",
+      "domain": "techfundingnews.com",
+      "name": "Tech. products funding news"
+    },
+    {
+      "src" : "images/portfolios/web-application/membroz.com.png",
+      "desc": "Membroz is a leading IT Consulting & Service Provider based in India, It provides services like Web Development, Website Design, and Development, Product Development, Application Development, and Maintenance, Development, Share-point and many more.",
+      "url": "https://www.membroz.com",
+      "domain": "membroz.com",
+      "name": " IT Consulting & Service Provider "
+    },
+    {
+      "src" : "images/portfolios/web-application/collabow.io.png",
+      "desc": "Collabow is a tool for secure cloud storage, remote working, file transfers, sharing ideas and problem solving. Centralise your files, get everyone on the same page, work together and discuss the most important content in a single online workspace.",
+      "url": "https://collabow.io",
+      "domain": "collabow.io",
+      "name": " Cloud based services provider "
+    },
+    {
+      "src" : "images/portfolios/web-application/fintibi.com.png",
+      "desc": "FINTIBI is a cloud-based app designed for finance professionals with a full set of tools to help you assess the financial performance of companies by analyzing financial statements and financial ratios. Move your analysis up to the next level by utilizing a professional system that works.",
+      "url": "https://www.fintibi.com",
+      "domain": "fintibi.com",
+      "name": " Tool to analyze financial performance "
+    },
+    {
+      "src" : "images/portfolios/web-application/login.mtlocaltools.com.png",
+      "desc": "Marketing Techs is an electronics repair company specializing in the repair of iPhones, iPads, and Macbooks. A quick turn-around is important for their customers, so they take pride in their ability to get your repairs completed promptly.",
+      "url": "https://login.mtlocaltools.com/12345",
+      "domain": "mtlocaltools.com",
+      "name": " electronics repair company "
+    },
+    {
+      "src" : "images/portfolios/web-application/businessanalyticsr.com.png",
+      "desc": "BusinessAnalyticsR help organizations to mitigate cybersecurity risks in the IT environment by applying AI and machine learning methods.",
+      "url": "http://businessanalyticsr.com",
+      "domain": "businessanalyticsr.com",
+      "name": " cybersecurity with AI and Machine Learning "
+    },
+    {
+      "src" : "images/portfolios/web-application/palssupermarket.com.png",
+      "desc": "Pals super market is an family owned typical grocery store that sells fresh produce, meats, dairy products , bakery goods alongside canned, frozen and prepared foods. They have full butcher shop in house.",
+      "url": "https://palssupermarket.com",
+      "domain": "palssupermarket.com",
+      "name": " Digital grocery store "
+    },
+    {
+      "src" : "images/portfolios/web-application/exploreist.com.png",
+      "desc": "Exploreist is an informational travel website where you can discover the best things each city in the world has to offer. Covering topics such as places to eat, hotels to stay at, and things to do.",
+      "url": "https://www.exploreist.com",
+      "domain": "exploreist.com",
+      "name": " Informational travel website  "
+    },
+    {
+      "src" : "images/portfolios/web-application/souqplace.com.png",
+      "desc": "Souqplace Commercial Brokers (Souqplace.com) is an Emirati virtual marketplace, founded in Dubai and launched in 2016.Souqplace.com's idea is to establish an open marketplace that is accessible by anyone who wishes to step into the E-Commerce era, with many features to facilitate the online selling process.",
+      "url": "https://www.souqplace.com",
+      "domain": "souqplace.com",
+      "name": " Emirati virtual marketplace  "
+    },
+    {
+      "src" : "images/portfolios/web-application/tradesocio.com.png",
+      "desc": "Tradesocio aims to make financial services more accessible to all levels of investors by focusing on solutions that are responsive to individual needs. Our customisable products create a more convenient, flexible, and faster user experience while guaranteeing the security and transparency of transactions.",
+      "url": "https://www.tradesocio.com",
+      "domain": "tradesocio.com",
+      "name": " Bespoke Investment Management technology  "
+    },
+    {
+      "src" : "images/portfolios/web-application/facetag.com.au.png",
+      "desc": "Facetag is a complete solution that will boost your retail revenue, engage your visitors and increase your social media presence - effortlessly!",
+      "url": "https://www.facetag.com.au",
+      "domain": "facetag.com.au",
+      "name": " Image distribution  "
+    },
+    {
+      "src" : "images/portfolios/web-application/szklanepanele.wroclaw.pl.png",
+      "desc": "Top glass jasioski is an service based company which provide glass products likes finishing the kitchen / bathroom / house  with quality services. With that they provide other services like installations of full led lighiting, glass sockets, complex graphic patterns.",
+      "url": "https://www.szklanepanele.wroclaw.pl",
+      "domain": "szklanepanele.wroclaw.pl",
+      "name": " Glass products and finishing home  "
+    },
+    {
+      "src" : "images/portfolios/web-application/rottonara-debiasi.it.png",
+      "desc": "Rottonara & debiasi is an Allianz insurance agency for corporate customers in South Tyrol. They provide insurance to businesses and self - employed.",
+      "url": "https://rottonara-debiasi.it",
+      "domain": "rottonara-debiasi.it",
+      "name": " Allianz insurance agency  "
+    },
+    {
+      "src" : "images/portfolios/web-application/mammaebaby.it.png",
+      "desc": "Mamma & baby is an online site that provide mothers shopping guides. The market for baby products is endless. For that they created quick and useful mini guides divided into age groups created by mothers for mothers.",
+      "url": "https://mammaebaby.it",
+      "domain": "mammaebaby.it",
+      "name": " Babies shopping guide  "
+    },
+    {
+      "src" : "images/portfolios/web-application/nextaway.com.png",
+      "desc": "Nextaway is the perfect place to start planning your dream holiday. We have an amazing selection of luxurious properties in the Costa del Sol and surrounding areas.",
+      "url": "https://nextaway.com",
+      "domain": "nextaway.com",
+      "name": " Holidayes guidance & services  "
+    },
+    {
+      "src" : "images/portfolios/web-application/docsmit.com.png",
+      "desc": "Docsmit is an online USPS mail service provider that uses latest printing and mailing automation technology to get your mail into the envelope and with that they provide tracking & reporting services also. ",
+      "url": "https://www.docsmit.com",
+      "domain": "docsmit.com",
+      "name": " USPS mail sender  "
+    },
+    {
+      "src" : "images/portfolios/web-application/inkhotels.com.png",
+      "desc": "Inkhotels is an online site that provides high quality hotel services. Ink is all about a new wave of curious explorers, seeking out our beloved cities and some of their best-kept secrets.",
+      "url": "https://www.inkhotels.com",
+      "domain": "inkhotels.com",
+      "name": " Book hotels & rooms  "
+    },
+    {
+      "src" : "images/portfolios/web-application/leakd.co.png",
+      "desc": "Leakd is an online portal to discover paywall-free content through quality, professionally constructed articles. An integral validation tool for early-stage founders and subject matter experts. And they provide all types of web based services also.",
+      "url": "https://leakd.co",
+      "domain": "leakd.co",
+      "name": " Digital portal for paywall-free content  "
+    },
+    {
+      "src" : "images/portfolios/web-application/bestcaseparenting.com.png",
+      "desc": "The BestCaseParenting.com is about to pass the tips and advice to parents of young children, primarily between the ages of 3 and 6 years old.",
+      "url": "https://bestcaseparenting.com",
+      "domain": "bestcaseparenting.com",
+      "name": " Guidance for first time parents "
+    },
+    {
+      "src" : "images/portfolios/web-application/mapleinesante.com.png",
+      "desc": "Ma pleine sante provide remote naturopathic consultations and iridological assessment and more services included also like lymphatic drainage, relaxing massage, slimming massage, home consultation",
+      "url": "https://mapleinesante.com",
+      "domain": "mapleinesante.com",
+      "name": " Naturopathic consultations & Iridological assessment "
+    },
+    {
+      "src" : "images/portfolios/web-application/arcchildren.org.png",
+      "desc": "Arc is a charity organisation that specially caters to children with cancer or other life-threatening illnesses, providing them a loving and safe atmosphere to grow.",
+      "url": "https://www.arcchildren.org",
+      "domain": "arcchildren.org",
+      "name": " children health organization "
+    },
+    {
+      "src" : "images/portfolios/web-application/immiplace.com.png",
+      "desc": "Immiplace providing information on many of the world’s immigration programs. At Immi Place, They help you make an informed decision by providing all the information and guide to immigration. ",
+      "url": "https://immiplace.com",
+      "domain": "immiplace.com",
+      "name": " Immigration guidance & facilities "
+    },
+    {
+      "src" : "images/portfolios/web-application/top10stockbroker.com.png",
+      "desc": "Top10stockbroker.com is an website under Medmonx Enterprises Private Limited. They are certified stock broker review & comparison website working with multiple partners.",
+      "url": "https://top10stockbroker.com",
+      "domain": "top10stockbroker.com",
+      "name": " Stock broker review & comparision "
+    },
+    {
+      "src" : "images/portfolios/web-application/retailinasia.com.png",
+      "desc": "Retail in asia  is an asia’s pioneer free news website dedicated to the Asian retail industry. It keeps its readers updated with the latest news, trends, reports, events and openings happening across the Asian retail landscape.",
+      "url": "https://retailinasia.com",
+      "domain": "retailinasia.com",
+      "name": " news website for Asian retail industry "
+    },
+    {
+      "src" : "images/portfolios/web-application/netfarver.dk.png",
+      "desc": "Tender farver is an local paint and hobby shop, where private individuals and craftsmen can buy quality products at reasonable prices.",
+      "url": "https://netfarver.dk",
+      "domain": "netfarver.dk",
+      "name": " Paint store in Tønde "
+    },
+    {
+      "src" : "images/portfolios/web-application/lucusaugusti.fr.png",
+      "desc": "Lucus augusti business is a sector of concern in terms of ecology, overproduction and waste production.",
+      "url": "https://lucusaugusti.fr",
+      "domain": "lucusaugusti.fr",
+      "name": " Organic catering and advice business "
+    },
+    {
+      "src" : "images/portfolios/web-application/creativelybox.com.png",
+      "desc": "Creatively™  is all about helping you release the fear and focus on the fun, rather than focusing on the final outcome. It’s ok to mess up. It’s actually pretty fun, dare we say. Plus, we’ll be with you every step of the way.",
+      "url": "https://creativelybox.com",
+      "domain": "creativelybox.com",
+      "name": " Paint Creativity "
+    },
+    {
+      "src" : "images/portfolios/web-application/oceanicdentallab.com.au.png",
+      "desc": "Oceanic Dental Laboratory is owned and operated by Australian qualified dental technicians. They provide dental restorations at the most competitive prices without comprising on quality and service.",
+      "url": "https://www.oceanicdentallab.com.au",
+      "domain": "oceanicdentallab.com.au",
+      "name": " Dental Laboratory "
+    },
+    {
+      "src" : "images/portfolios/web-application/cult.rentals.png",
+      "desc": "The cult.rentals e-bike completely breaks with the laws of classic bicycle construction: moped proportions, incredibly stable lattice frame made of die-cast aluminum, low entry and fat tires. You've definitely never experienced a bike like this before.",
+      "url": "https://www.cult.rentals",
+      "domain": "cult.rentals",
+      "name": " E-bike for holiday "
+    },
+    {
+      "src" : "images/portfolios/web-application/goldencapitalist.com.png",
+      "desc": "Golden Capitalist is your hub for all things global mobility. Differents services like articles, crypto, corporate, indexes, real estate etc.",
+      "url": "https://www.goldencapitalist.com",
+      "domain": "goldencapitalist.com",
+      "name": " For global mobility "
+    },
+    {
+      "src" : "images/portfolios/web-application/skinsdermacare.ca.png",
+      "desc": "SKINS Derma Care is bringing the finest and most up-to-date technology to Orléans, Rockland, and Barrhaven, where you will feel less like a client and more like family.",
+      "url": "https://skinsdermacare.ca",
+      "domain": "skinsdermacare.ca",
+      "name": " SKINS Derma Care "
+    },
+    {
+      "src" : "images/portfolios/web-application/hiddenleafcannabisco.com.png",
+      "desc": "At Hidden Leaf, Their goal is to help remove the stigma associated with cannabis use by providing their customers or Herbalists as they like to call them, with an experience rooted in knowledge and understanding about a plant that has for a long time been misunderstood.",
+      "url": "https://hiddenleafcannabisco.com",
+      "domain": "hiddenleafcannabisco.com",
+      "name": " Cannabis Products "
+    }
+  ],
+
+  "mobileApplication": [
+    {
+      "src" : "images/portfolios/mobile-application/comeclosely.png",
+      "desc": "ComeClosely is a platform that allows you to access thousands of events. and you will have the opportunity to find, book and share your magical moments in one platform, show others and watch how others party abroad! ",
+      "url": "https://apps.apple.com/us/app/comeclosely/id1586968704",
+      "domain": "comeclosely",
+      "name": " The event social network "
+    },
+    {
+      "src" : "images/portfolios/mobile-application/21-days-challange.png",
+      "desc": "Scientists and leading psychology research suggest that it takes us around 21 days to break or form a new habit. This means doing a good thing (eating clean, exercising daily) can become your habit if done 21 days in a row.",
+      "url": "https://play.google.com/store/apps/details?id=com.deviation.twenty_one_days",
+      "domain": "21-days-challange",
+      "name": " How long does it take to break a habit? "
+    },
+    {
+      "src" : "images/portfolios/mobile-application/usbrtv.png",
+      "desc": "US BRASIL TV is a streaming television station, based in the United States and with content aimed at Brazilians living abroad.",
+      "url": "https://play.google.com/store/apps/details?id=com.demolos.usbrasiltv",
+      "domain": "usbrtv",
+      "name": " US BRASIL TV is a streaming television station  "
+    },
+    {
+      "src" : "images/portfolios/mobile-application/jobit.png",
+      "desc": "This simple and beautifully designed app will help you find your next job or hire your next employee, easier than ever.",
+      "url": "https://play.google.com/store/apps/details?id=com.mega.jobit",
+      "domain": "jobit - work & hire ",
+      "name": " Find The Best Jobs & Hire The Best Employees!  "
+    },
+    {
+      "src" : "images/portfolios/mobile-application/qr-creater.png",
+      "desc": "The best app to scan & create QR codes !, With powerfull features like Scan both QR & Barcodes, Create QR codes for anything ! ( phone, website, contact info etc.), QR Code detailed data, Scan history, Simple sharing etc.",
+      "url": "https://apps.apple.com/US/app/id1490212026?l=en",
+      "domain": "qr-creater",
+      "name": " The best app to scan & create QR codes !  "
+    }
+  ]
+}
