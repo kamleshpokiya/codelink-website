@@ -1,0 +1,130 @@
+[08-Sep-2022 08:19:53 America/New_York] PHP Warning:  Undefined array key "HTTP_REFFERER" in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 12
+[08-Sep-2022 08:21:42 America/New_York] PHP Warning:  Undefined array key "HTTP_REFFERER" in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 12
+[08-Sep-2022 08:22:22 America/New_York] PHP Warning:  Undefined array key "HTTP_REFFERER" in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 12
+[08-Sep-2022 08:22:22 America/New_York] PHP Warning:  Undefined array key "HTTP_REFFERER" in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 57
+[08-Sep-2022 08:22:56 America/New_York] PHP Warning:  Undefined array key "HTTP_REFFERER" in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 12
+[08-Sep-2022 08:22:56 America/New_York] PHP Warning:  Undefined array key "HTTP_REFFERER" in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 57
+[08-Sep-2022 08:25:01 America/New_York] PHP Warning:  Undefined array key "HTTP_REFFERER" in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 12
+[08-Sep-2022 08:27:35 America/New_York] PHP Warning:  Undefined array key "HTTP_REFFERER" in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 12
+[08-Sep-2022 08:27:57 America/New_York] PHP Warning:  Undefined array key "HTTP_REFFERER" in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 12
+[08-Sep-2022 10:15:04 America/New_York] PHP Warning:  Undefined array key "data" in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 19
+[08-Sep-2022 10:32:46 America/New_York] PHP Warning:  Array to string conversion in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 27
+[08-Sep-2022 10:34:28 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 27
+[08-Sep-2022 10:36:24 America/New_York] PHP Warning:  Undefined array key "firstname" in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 27
+[08-Sep-2022 10:40:43 America/New_York] PHP Warning:  Undefined array key "data" in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 27
+[08-Sep-2022 10:43:34 America/New_York] PHP Warning:  Undefined array key "data" in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 27
+[08-Sep-2022 10:44:27 America/New_York] PHP Warning:  Undefined array key "data" in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 27
+[08-Sep-2022 10:44:39 America/New_York] PHP Warning:  Undefined array key "data" in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 27
+[08-Sep-2022 10:50:42 America/New_York] PHP Warning:  Undefined array key "data" in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 28
+[08-Sep-2022 11:00:59 America/New_York] PHP Warning:  Attempt to read property "firstname" on array in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 30
+[08-Sep-2022 11:02:12 America/New_York] PHP Warning:  Attempt to read property "firstname" on array in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 30
+[08-Sep-2022 11:05:11 America/New_York] PHP Warning:  Attempt to read property "firstname" on array in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 30
+[08-Sep-2022 11:06:20 America/New_York] PHP Warning:  Attempt to read property "firstname" on array in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 30
+[08-Sep-2022 11:07:48 America/New_York] PHP Warning:  Attempt to read property "firstname" on null in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 30
+[08-Sep-2022 11:07:55 America/New_York] PHP Warning:  Attempt to read property "firstname" on array in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 30
+[08-Sep-2022 11:11:21 America/New_York] PHP Warning:  Attempt to read property "firstname" on array in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 30
+[08-Sep-2022 11:22:49 America/New_York] PHP Warning:  Undefined variable $username in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 89
+[08-Sep-2022 11:22:49 America/New_York] PHP Warning:  Undefined variable $password in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 89
+[08-Sep-2022 11:23:51 America/New_York] PHP Warning:  Undefined variable $username in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 89
+[08-Sep-2022 11:23:51 America/New_York] PHP Warning:  Undefined variable $password in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 89
+[08-Sep-2022 12:01:02 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Message body empty in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/vendor/phpmailer/phpmailer/src/PHPMailer.php:1588
+Stack trace:
+#0 /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/vendor/phpmailer/phpmailer/src/PHPMailer.php(1496): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php(231): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1588
+[11-Sep-2022 23:08:27 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Message body empty in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/vendor/phpmailer/phpmailer/src/PHPMailer.php:1588
+Stack trace:
+#0 /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/vendor/phpmailer/phpmailer/src/PHPMailer.php(1496): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php(247): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1588
+[11-Sep-2022 23:10:01 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Message body empty in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/vendor/phpmailer/phpmailer/src/PHPMailer.php:1588
+Stack trace:
+#0 /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/vendor/phpmailer/phpmailer/src/PHPMailer.php(1496): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php(247): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1588
+[06-Nov-2022 23:19:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function email_template_set() in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 58
+[06-Nov-2022 23:21:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function email_template_set() in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 58
+[06-Nov-2022 23:25:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function email_template_set() in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 58
+[06-Nov-2022 23:27:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function email_template_set() in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 58
+[06-Nov-2022 23:28:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function email_template_set() in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 58
+[06-Nov-2022 23:41:43 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 57
+[06-Nov-2022 23:57:43 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 87
+[06-Nov-2022 23:59:31 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 87
+[06-Nov-2022 23:59:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function email_template_set() in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 87
+[07-Nov-2022 00:00:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function email_template_set() in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 87
+[07-Nov-2022 00:00:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function email_template_set() in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 87
+[07-Nov-2022 02:45:45 America/New_York] PHP Warning:  Undefined variable $email in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 77
+[07-Nov-2022 02:45:45 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to):  in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/vendor/phpmailer/phpmailer/src/PHPMailer.php(1014): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php(44): PHPMailer\PHPMailer\PHPMailer->addAddress()
+#2 /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php(81): email_send()
+#3 {main}
+  thrown in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[07-Nov-2022 03:12:35 America/New_York] PHP Warning:  Undefined variable $email in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 78
+[07-Nov-2022 03:12:35 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to):  in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/vendor/phpmailer/phpmailer/src/PHPMailer.php(1014): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php(44): PHPMailer\PHPMailer\PHPMailer->addAddress()
+#2 /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php(82): email_send()
+#3 {main}
+  thrown in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[07-Nov-2022 03:45:22 America/New_York] PHP Warning:  Undefined variable $template in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 88
+[07-Nov-2022 03:45:22 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Message body empty in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/vendor/phpmailer/phpmailer/src/PHPMailer.php:1588
+Stack trace:
+#0 /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/vendor/phpmailer/phpmailer/src/PHPMailer.php(1496): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php(53): PHPMailer\PHPMailer\PHPMailer->send()
+#2 /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php(88): email_send()
+#3 {main}
+  thrown in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1588
+[07-Nov-2022 04:04:11 America/New_York] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 89
+[07-Nov-2022 05:28:38 America/New_York] PHP Warning:  Undefined array key "" in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 76
+[07-Nov-2022 05:28:38 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 76
+[07-Nov-2022 05:28:38 America/New_York] PHP Warning:  Undefined array key "" in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 77
+[07-Nov-2022 05:28:38 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 77
+[07-Nov-2022 05:28:38 America/New_York] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php:112
+Stack trace:
+#0 /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php(112): file_get_contents()
+#1 /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php(85): generate_template()
+#2 /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php(58): handleSendEmail()
+#3 {main}
+  thrown in /home/emaiotoy/public_html/codelinkinfotech.com/sendemail/index.php on line 112

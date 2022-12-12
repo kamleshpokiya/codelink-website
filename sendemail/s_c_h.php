@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"/>
+        <style>
+            .container {
+                margin: 10px auto;
+                width: 90%;
+                max-width: 700px;
+                min-width: 700px;
+                background-color: white;
+                border: 2px solid #c5bcbc73;
+            }
+
+            .header {
+                height: 100px;
+                background-color: white;
+                border-bottom: 2px solid #c5bcbc73;
+            }
+
+            .header img {
+                width: 180px;
+                margin: 25px 40px;
+            }
+
+            .content {
+                padding: 5px 40px 20px 40px;
+                font-size: 15px;
+                color: black;
+            }
+
+            .content p {
+                margin: 20px 0px;
+            }
+            .contact_details {
+                color: black !important;
+            }
+
+            .contact_details div {
+                margin-bottom: 5px;
+            }
+
+            .contact_details a {
+                text-decoration: none;
+                color: #ff8d00;
+            }
+
+            .last_tag {
+                margin-bottom: 30px;
+            }
+
+            .last_tag .pl1 {
+                margin: 7px 0px;
+            }
+
+            .last_tag .pl2 {
+                margin: 7px 0px;
+            }
+
+            .address {
+                background-color: #ff8d00;
+            }
+
+            .address p {
+                margin: 0px 40px;
+                font-size: 15px;
+                line-height: 25px;
+                color:  #063F5C;
+                padding: 15px 0px;
+            }
+
+            .footer {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-around !important;
+                align-items: center !important;
+                font-size: 15px;
+                padding: 25px 40px;
+                background-color: #063F5C;
+            }
+
+            .footer a {
+                text-decoration: none;
+                color: #ffffffc2;
+            }
+
+            .footer .social-icons {
+                margin-bottom: -5px;
+            }
+
+            .footer .social-icons img {
+                width: 15px;
+                height: 17px;
+                padding: 6px 7px;
+                border-radius: 4px;
+                margin-right: 5px !important;
+                background-color: #ff8d00!important;
+            }
+
+            .footer .tel-number {
+                margin: auto auto;
+            }
+
+            .footer .web-link {
+                margin: auto 0px;
+            }
+
+
+
+            /* s_c_h  */
+
+            .after_last_tag {
+                font-size: 13px;
+                margin: 0px;
+                color: #063f5c;
+            }
+
+            .after_last_tag p {
+                margin: 5px 0px;
+            }
+
+            .address_inside_div {
+                margin: 0px 40px;
+                padding: 1px 0px;
+                color: #063f5c;
+            }
+
+            .address_inside_div ul {
+                padding: 0px;
+                font-size: 14px;
+                color: #ffffffde;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                <img src="https://codelinkinfotech.com/images/email_images/codelink.png" alt="Codelink Infotech" >
+            </div>
+
+            <div class="content">
+                <h4>Dear {{ firstname }},</h4>
+                <p>Your problem is very meaningful to us, so thank you for getting in touch with us.</p>
+                <p>We received your message. Our technical team will contact you as soon as possible.</p>
+
+                <div class="contact_details">
+                    <p>In addition, the following are contact details for follow up in case our team fails to respond to you.</p>
+
+                    <div class="mail">
+                        <a href="mailto:info@codelinkinfotech.com">info@codelinkinfotech.com</a>
+                    </div>
+
+                    <div class="tel">
+                        <a href="tel:+91 8320246700">+91 8320246700</a>
+                    </div>
+                </div>
+
+                <p>We love to help you!</p>
+
+                <div class="last_tag">
+                    <p class="pl1">Best regards,</p>
+                    <p class="pl2">Codelink Infotech</p>
+                </div>
+                
+                <div class="after_last_tag">
+                    <p>- At Codelink Infotech, our dedicated team members help you leverage your business by using leading-edge technologies. We keep codes and clients at heart in everything we do.</p>
+                    <p>- You are just a step away from our tireless support.</p>
+                    <p>- Get in touch today as we are excited about your imagination which we will transform into a profitable venture.</p>
+                </div>
+            </div>
+
+            <div class="address">
+                <div class="address_inside_div">
+                    <h3>Quick facts at a glance</h3>
+                    <ul>
+                        <li>Completed 300+ Projects of 29 countries and 200+ clients at various marketplaces; globally, since 2013.</li>
+                        <li>Maximum client satisfaction is our vision</li>
+                        <li>History of satisfied clients who bounce back with more projects.</li>
+                        <li>Up to 9 years of tech experts</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="footer">
+                <div class="web-link">
+                    <a href="http://www.codelinkinfotech.com/">www.codelinkinfotech.com</a>
+                </div>
+
+                <div class="tel-number">
+                    <a href="tel:+91 8320246700">+91 8320246700</a>
+                </div>
+
+                <div class="social-icons">
+                    <span>
+                        <a href="https://www.facebook.com/codelinkinfotech">
+                            <img src="https://codelinkinfotech.com/images/email_images/facebook.png" alt="">
+                        </a>
+                    </span>
+
+                    <span>
+                        <a href="https://www.linkedin.com/company/codelink-infotech/">
+                            <img src="https://codelinkinfotech.com/images/email_images/linkedin.png" alt="">
+                        </a>
+                    </span>
+                    
+                    <span>
+                        <a href="https://www.instagram.com/codelinkinfotech/">
+                            <img src="https://codelinkinfotech.com/images/email_images/instagram.png" alt="">
+                        </a>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
